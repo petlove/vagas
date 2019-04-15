@@ -17,7 +17,10 @@ Queremos uma pessoa que gosta do que faz, que trabalhe em equipe e tenha vontade
  
 Se você se identificou, venha fazer parte do nosso time!
 
-## Local
+
+## Informações
+
+### Local
 São Paulo - Berrini
 
 
