@@ -20,7 +20,7 @@ A Petlove é o e-commerce líder no mercado, investido pelos melhores fundos de 
 
 Objetivo deste teste é avaliar seus conhecimentos em organização, estilo, boas práticas e habilidades em front end.
 
-[Visualizar teste para Front](https://github.com/petlove/code-challenge/blob/master/README.md)
+[Visualizar teste para Front](https://github.com/petlove/code-challenge/blob/master/frontend_jr/README.md)
 
 
  
