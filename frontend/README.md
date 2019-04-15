@@ -50,16 +50,14 @@ GET -> response no formato JSON
 
 `https://viacep.com.br/ws/11040110/json/`
 
-## Layouts
-
-### Layout inicial
+## Layout inicial
 ![Petlove](https://github.com/petlove/code-challenge/blob/master/frontend_jr/layout_tela-inicial.png)
 
-### Layout final
+## Layout final
 ![Petlove](https://github.com/petlove/code-challenge/blob/master/frontend_jr/layout_tela-final.png)
 
 
-**O que posso usar?**
+## O que posso usar?
 
 Você pode usar qualquer framework JS que quiser. Se preferir, pode fazer usando js Vanilla!
 

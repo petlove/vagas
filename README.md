@@ -47,4 +47,4 @@ São Paulo - Berrini
 
 
 Objetivo deste teste é avaliar seus conhecimentos em organização, estilo, boas práticas e habilidades em front end.
-[Desafio para Front-end Júnior](https://github.com/petlove/code-challenge/blob/master/frontend_jr/README.md)
+[Desafio para Front-end](https://github.com/petlove/code-challenge/blob/master/frontend/README.md)
