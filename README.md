@@ -2,7 +2,7 @@
 
 # Petlove Code Challenge :)
 
-![Drag Racing](https://s3.amazonaws.com/gupy5/production/companies/294/career/196/images/mainImage.jpg)
+![Petlove](https://s3.amazonaws.com/gupy5/production/companies/294/career/196/images/mainImage.jpg)
 
 ## Sobre a Petlove
 
