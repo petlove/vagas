@@ -6,16 +6,6 @@ Objetivo deste teste é avaliar seus conhecimentos em organização, estilo, boa
  
 A Petlove é o e-commerce líder no mercado, investido pelos melhores fundos de Venture Capital do Brasil. Nascemos em 1999 a partir do sonho visionário de um médico veterinário que foi pioneiro em apostar na venda online de produtos pet em uma época em que a internet no país ainda era uma incerteza. Hoje, são mais de 15 mil produtos vendidos através do nosso site e aplicativo e entregues em todo o território nacional. Somos mais de 280 petlovers que acreditam no investimento em tecnologia e amor pelos pets para continuarmos oferecendo os melhores serviços, produtos e conteúdos pet para nossos clientes: os peludos e suas famílias.
 
-### Diferenciais
-- Sala de descompressão com vídeo-game, mesa de ping-pong e pebolim;
-- Crédito em nosso refeitório autônomo com uma variedade de Snacks =)
-- Pet Friendly, pets são muito bem vindos no escritório =)
-- Sala de jogos
-- PLR anual
-- Desconto em produtos no site
-- Day-off de aniversário;
-- Parcerias com descontos;
-
 ### Requisitos
 
 - HTML
