@@ -71,8 +71,8 @@ Você pode usar qualquer framework JS que quiser. Se preferir, pode fazer usando
 
 ## Finalizando
 
-- Suba a sua proposta para o projeto que você criou no GitHub. Exemplo: https://github.com/seuNome/pet-code-challenge;
-- Envie-nos o link do seu projeto no prazo de até 7 dias. Exemplo: https://github.com/seuNome/test-frontEnd.git
+- Suba a sua proposta para o projeto que você criou no GitHub. Exemplo: https://github.com/seuNome/pet-code-frontend;
+- Envie-nos o link do seu projeto. Exemplo: https://github.com/seuNome/test-frontend.git
 - Aguarde o RH entrar em contato.
 
 ## Quem buscamos
