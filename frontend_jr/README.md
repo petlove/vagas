@@ -57,7 +57,7 @@ Você pode usar qualquer framework JS que quiser. Se preferir, pode fazer usando
 - Feedbacks visuais para o usuário (alertas, inputs...);
 - HTML semântico;
 - CSS bem estruturado de preferencia usando [BEM](http://getbem.com/);
-- Testes unitários e e2e, de preferencia utilizando [Jest](https://jestjs.io/);
+- Testes unitários e e2e, de preferência utilizando [Jest](https://jestjs.io/);
 - Código limpo e bem organizado;
 
 ## Finalizando
