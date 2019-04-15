@@ -7,16 +7,35 @@ Objetivo deste teste é avaliar seus conhecimentos em organização, estilo, boa
 - HTML
 - CSS (pré-processador a sua escolha)
 - JS (Vanilla, VueJs ou React)
-- Node JS
 - Git
+- NodeJS
+- APIs / REST
 - Gulp ou Webpack
+- Testes Automatizados
+- HTML5/CSS3/Sass
+- Ecmascript 6+
 - Suporte para IE9+, Chrome, Safari, Firefox+ :)
-- Responsivo;
 
+### Desejáveis
+- Projetos opensource
+- Elastic Search
+- PWA/Service Workers
+- Kubernetes
+- Docker
+- GraphQL
+- Websockets
+- Ruby on Rails
+- Serveless
+- OOP e Desing Patterns
+- Python
+- NoSQL
+- ShellScript
+- MySQL ou Postgres
+- Cloud (AWS ou Google Cloud)
 
 ### O Desafio
 
-Criar um formulário simples para consulta de CEP em Ajax
+Criar um formulário responsivo simples para consulta de CEP em Ajax :)
 
 
 ### Instruções
