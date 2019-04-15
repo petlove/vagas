@@ -1,7 +1,8 @@
 
 
-
 ## Sobre a Petlove
+
+
 
 ![group of people](https://camo.githubusercontent.com/00af0236d502f1aac225c33198b3eb4f1b4daa38/68747470733a2f2f7777772e7065746c6f76652e636f6d2e62722f7374617469632f75706c6f6164732f696d616765732f706574636f6f6c2e706e67)
 
@@ -18,56 +19,9 @@ A Petlove é o e-commerce líder no mercado, investido pelos melhores fundos de 
 
 Objetivo deste teste é avaliar seus conhecimentos em organização, estilo, boas práticas e habilidades em front end.
 
-  
+Visualizar teste para Front
 
-### Requisitos
-
-  
-
-* HTML
-* CSS (pré-processador a sua escolha)
-* JS (VueJs ou React)
-* Node JS
-
-
-* Desenvolver a página conforme o layout apresentado;
-
-* Suporte para IE9+, Chrome, Safari, Firefox+ :)
-
-* Responsivo;
-
-
-### O Desafio
-
-XXX
-
-
-### O que apreciamos ++
-
-* Feedbacks visuais para o usuário (alertas, inputs...);
-
-* Permitir edição;
-
-* HTML máximo possível semântico;
-
-* CSS bem estruturado;
-
-* Testes unitários;
-
-* Código limpo e bem organizado;
-
-
-
-### Finalizando
-
-  
-
-* Suba a sua proposta para o projeto que você criou no GitHub. Exemplo: https://github.com/seuNome;
-
-* Envie-nos o link do seu projeto no prazo de até 7 dias. Exemplo: https://github.com/seuNome/test-frontEnd.git
-
-* Aguarde o RH entrar em contato.
-
+ 
 
 
 ### Quem buscamos
