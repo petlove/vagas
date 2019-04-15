@@ -15,7 +15,25 @@ Queremos uma pessoa que gosta do que faz, que trabalhe em equipe e tenha vontade
  
 Se você se identificou, venha fazer parte do nosso time!
 
+
+### Benefícios
+- Assistência médica
+- Odontológica
+- Seguro de vida
+- Bicicletário no prédio
+- VR/VA
   
+### Diferenciais
+- Sala de descompressão com vídeo-game, mesa de ping-pong e pebolim;
+- Crédito em nosso refeitório autônomo com uma variedade de Snacks =)
+- Pet Friendly, pets são muito bem vindos no escritório =)
+- Sala de jogos
+- PLR anual
+- Desconto em produtos no site
+- Day-off de aniversário;
+- Parcerias com descontos;
+
+
 
 ## Escolha o seu desafio!
 
