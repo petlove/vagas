@@ -4,22 +4,19 @@ Objetivo deste teste é avaliar seus conhecimentos em organização, estilo, boa
 
 ## Requisitos
 
-- HTML
-- CSS (pré-processador a sua escolha)
+- HTML5/CSS3/SCSS
+- Gulp ou Webpack
 - JS (Vanilla, VueJs ou React)
 - Git
 - NodeJS
 - APIs / REST
-- Gulp ou Webpack
-- Testes Automatizados
-- HTML5/CSS3/Sass
-- Ecmascript 6+
 - Suporte para IE9+, Chrome, Safari, Firefox+ :)
 
 ## Desejáveis
 - Projetos opensource
 - PWA/Service Workers
 - MySQL ou Postgres
+- Testes Automatizados
 
 ## O Desafio
 
