@@ -1,4 +1,4 @@
-# Desafio Front-end Júnior
+# Desafio Front-end
 
 Objetivo deste teste é avaliar seus conhecimentos em organização, estilo, boas práticas e habilidades em front end.
 
