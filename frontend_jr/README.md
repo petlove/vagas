@@ -18,20 +18,8 @@ Objetivo deste teste é avaliar seus conhecimentos em organização, estilo, boa
 
 ### Desejáveis
 - Projetos opensource
-- Elastic Search
 - PWA/Service Workers
-- Kubernetes
-- Docker
-- GraphQL
-- Websockets
-- Ruby on Rails
-- Serveless
-- OOP e Desing Patterns
-- Python
-- NoSQL
-- ShellScript
 - MySQL ou Postgres
-- Cloud (AWS ou Google Cloud)
 
 ### O Desafio
 
