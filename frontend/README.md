@@ -25,7 +25,7 @@ Objetivo deste teste é avaliar seus conhecimentos em organização, estilo, boa
 
 Criar um formulário responsivo simples para consulta de CEP em Ajax :)
 
-![Petlove](https://github.com/petlove/code-challenge/blob/master/frontend_jr/layout_final.gif)
+![Petlove](https://github.com/petlove/code-challenge/blob/master/frontend/layout_final.gif)
 
 ## Instruções
 
@@ -51,10 +51,10 @@ GET -> response no formato JSON
 `https://viacep.com.br/ws/11040110/json/`
 
 ## Layout inicial
-![Petlove](https://github.com/petlove/code-challenge/blob/master/frontend_jr/layout_tela-inicial.png)
+![Petlove](https://github.com/petlove/code-challenge/blob/master/frontend/layout_tela-inicial.png)
 
 ## Layout final
-![Petlove](https://github.com/petlove/code-challenge/blob/master/frontend_jr/layout_tela-final.png)
+![Petlove](https://github.com/petlove/code-challenge/blob/master/frontend/layout_tela-final.png)
 
 
 ## O que posso usar?
