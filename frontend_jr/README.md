@@ -52,10 +52,10 @@ GET -> response no formato JSON
 
 **Layouts**
 
-##Layout inicial
+## Layout inicial
 ![Petlove](https://github.com/petlove/code-challenge/blob/master/frontend_jr/layout_tela-inicial.png)
 
-##Layout final
+## Layout final
 ![Petlove](https://github.com/petlove/code-challenge/blob/master/frontend_jr/layout_tela-final.png)
 
 
@@ -63,7 +63,7 @@ GET -> response no formato JSON
 
 Você pode usar qualquer framework JS que quiser. Se preferir, pode fazer usando js Vanilla!
 
-## O que apreciamos +1
+## O que apreciamos
 
 - Feedbacks visuais para o usuário (alertas, inputs...);
 - HTML semântico;
