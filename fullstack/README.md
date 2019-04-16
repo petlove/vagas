@@ -14,28 +14,27 @@ Objetivo deste teste é avaliar seus conhecimentos em organização, estilo, boa
 - Ecmascript 6+
 - CDN
 - Linux
-- Banco de Dados
-- PHP
+- Banco de Dados(MySQL ou Postgres)
+- Serverless
+- GraphQL
+- Docker
+- Testes Automatizados
+- PWA/Service Workers
+- Websockets
+- Python
+- ShellScript
+- Ruby on Rails
+- OOP e Desing Patterns
+- Cloud Flare
+- CI/CD
 - Suporte para IE9+, Chrome, Safari, Firefox+ :)
 
 ## Desejáveis
 - Projetos opensource
-- PWA/Service Workers
-- MySQL ou Postgres
-- Testes Automatizados
 - Elastic Search
 - Kubernetes
-- Docker
 - Elixir
-- GraphQL
-- Websockets
-- Ruby on Rails
-- Serveless
-- OOP e Desing Patterns
-- Python
 - NoSQL
-- ShellScript
-- MySQL ou Postgres
 
 
 ## O Desafio
