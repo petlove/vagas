@@ -12,7 +12,7 @@ A Petlove é o e-commerce líder no mercado, investido pelos melhores fundos de 
 ## Quem buscamos
 
 Queremos uma pessoa que gosta do que faz, que trabalhe em equipe e tenha vontade de inovar. Sempre buscando atualização e soluções inovadoras.
- 
+
 Se você se identificou, venha fazer parte do nosso time!
 
 ## Informações
@@ -30,7 +30,7 @@ São Paulo - Berrini
 - Seguro de vida
 - Bicicletário no prédio
 - VR/VA
-  
+
 ### Diferenciais
 - Sala de descompressão com vídeo-game, mesa de ping-pong e pebolim;
 - Crédito em nosso refeitório autônomo com uma variedade de Snacks =)
@@ -48,6 +48,8 @@ Objetivo deste teste é avaliar seus conhecimentos em organização, estilo, boa
 [Desafio para Front-end](https://github.com/petlove/code-challenge/blob/master/frontend/README.md)
 
 [Desafio para Backend Ruby](https://github.com/petlove/code-challenge/blob/master/backend-ruby/README.md)
+
+[Desafio para Backend Elixir](https://github.com/petlove/code-challenge/blob/master/backend-elixir/README.md)
 
 [Desafio para Mobile](https://github.com/petlove/code-challenge/blob/master/mobile/README.md)
 
