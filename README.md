@@ -11,7 +11,7 @@ A Petlove é o e-commerce líder no mercado, investido pelos melhores fundos de 
 
 ## Quem buscamos
 
-Queremos uma pessoa que gosta do que faz, que trabalhe em equipe e tenha vontade de inovar. Sempre buscando atualização e soluções inovadoras.
+Queremos uma pessoa que gosta do que faz, que trabalhe em equipe, que esteja sempre buscando atualização e que construa soluções inovadoras.
 
 Se você se identificou, venha fazer parte do nosso time!
 
