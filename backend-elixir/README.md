@@ -69,4 +69,4 @@ Exemplo: https://github.com/seuNome/pet-code;
 - Pronto! Basta aguardar o nosso RH entrar em contato. Entramos em contato rapidinho ;)
 
 
-*Tá com tempo livre e achou nosso teste divertido? Já pensou em tentar [nosso teste em Ruby também](https://github.com/petlove/vagas/tree/master/backend-ruby)?*
+*Achou nosso teste divertido? Já pensou em tentar [nosso teste em Ruby também](https://github.com/petlove/vagas/tree/master/backend-ruby)?*
