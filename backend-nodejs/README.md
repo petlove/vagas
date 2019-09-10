@@ -43,7 +43,8 @@ Boa sorte e obrigado por participar!
   * Crie uma rotina que faça a atualização da sua base de dados 3 vezes ao dia;
   * Precisamos de uma documentação da sua API para usá-la. Pense em utilizar
     o [Swagger](https://swagger.io/);
-  * Não esqueça de desenvolver os testes unitários;
+  * Não esqueça de desenvolver os testes unitários. Considere usar o
+    [jest](https://jestjs.io/) para cumprir essa missão;
   * Vale observar que a Rick and Morty API tem uma limitação de requisições por
     dia, que está disponível em sua
    [documentação](https://rickandmortyapi.com/documentation).

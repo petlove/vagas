@@ -51,6 +51,8 @@ Objetivo deste teste é avaliar seus conhecimentos em organização, estilo, boa
 
 [Desafio para Backend Elixir](https://github.com/petlove/code-challenge/blob/master/backend-elixir/README.md)
 
+[Desafio para Backend NodeJS](https://github.com/petlove/code-challenge/blob/master/backend-nodejs/README.md)
+
 [Desafio para Mobile](https://github.com/petlove/code-challenge/blob/master/mobile/README.md)
 
 [Desafio para Devops](https://github.com/petlove/code-challenge/blob/master/devops/README.md)
