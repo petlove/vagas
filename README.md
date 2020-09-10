@@ -49,6 +49,8 @@ Objetivo deste teste é avaliar seus conhecimentos em organização, estilo, boa
 
 [Desafio para Backend Ruby](https://github.com/petlove/code-challenge/blob/master/backend-ruby/README.md)
 
+[Desafio para Backend Java](https://github.com/petlove/code-challenge/blob/master/backend-java/README.md)
+
 [Desafio para Backend Elixir](https://github.com/petlove/code-challenge/blob/master/backend-elixir/README.md)
 
 [Desafio para Backend NodeJS](https://github.com/petlove/code-challenge/blob/master/backend-nodejs/README.md)
