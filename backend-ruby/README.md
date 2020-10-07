@@ -56,23 +56,33 @@ Inclua os trechos de código que respondem as perguntas abaixo:
 
 ### Qual é o custo médio dos animais do tipo cachorro?
 
-    SUA RESPOSTA AQUI
+    2.6.0 :007 > Animal.dogs_cost_average
+   (0.9ms)  SELECT AVG("animals"."mensal_cost") FROM "animals" WHERE (animal_type = 'Cachorro')
+ => 0.9999e2
 
 ### Quantos cachorros existem no sistema?
 
-    SUA RESPOSTA AQUI
+    2.6.0 :002 > Animal.dogs_count
+   (1.5ms)  SELECT COUNT(*) FROM "animals" WHERE (animal_type = 'Cachorro')
+ => 2 
 
 ### Qual o nome dos donos dos cachorros (Array de nomes)
 
-    SUA RESPOSTA AQUI
+    2.6.0 :001 > Person.dogs_owners_name
+   (1.1ms)  SELECT "people"."name" FROM "people" INNER JOIN "animals" ON "animals"."person_id" = "people"."id" WHERE (animals.animal_type = 'Cachorro') ORDER BY "people"."name" ASC
+ => ["Axl Rose", "Sid Vicious"]
 
 ### Retorne as pessoas ordenando pelo custo que elas tem com os animais (Maior para menor)
 
-    SUA RESPOSTA AQUI
+    2.6.0 :002 > Person.mensal_cost_order
+   (2.9ms)  SELECT "people"."name", SUM(animals.mensal_cost) FROM "people" INNER JOIN "animals" ON "animals"."person_id" = "people"."id" GROUP BY "people"."name" ORDER BY SUM(animals.mensal_cost) DESC, name
+ => [["Elvis Presley", 0.40799e3], ["Johnny Cash", 0.19999e3], ["Kurt Cobain", 0.17799e3], ["Bruce Dickinson", 0.10399e3], ["Joey Ramone", 0.10399e3], ["Axl Rose", 0.9999e2], ["Sid Vicious", 0.9999e2]] 
 
 ### Levando em consideração o custo mensal, qual será o custo de 3 meses de cada pessoa?
 
-    SUA RESPOSTA AQUI
+    2.6.0 :001 > Person.three_month_mensal_cost
+   (1.7ms)  SELECT "people"."name", SUM(animals.mensal_cost)*3 FROM "people" INNER JOIN "animals" ON "animals"."person_id" = "people"."id" GROUP BY "people"."name" ORDER BY (SUM(animals.mensal_cost)*3) DESC, name
+ => [["Elvis Presley", 0.122397e4], ["Johnny Cash", 0.59997e3], ["Kurt Cobain", 0.53397e3], ["Bruce Dickinson", 0.31197e3], ["Joey Ramone", 0.31197e3], ["Axl Rose", 0.29997e3], ["Sid Vicious", 0.29997e3]]
 
 # Entrega do projeto
 
