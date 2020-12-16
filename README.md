@@ -58,3 +58,5 @@ Objetivo deste teste é avaliar seus conhecimentos em organização, estilo, boa
 [Desafio para Mobile](https://github.com/petlove/code-challenge/blob/master/mobile/README.md)
 
 [Desafio para Devops](https://github.com/petlove/code-challenge/blob/master/devops/README.md)
+
+[Desafio para Dados - BI/Análise](https://github.com/petlove/code-challenge/blob/master/data/bi-analysis/README.md)
