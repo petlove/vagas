@@ -1,4 +1,4 @@
-# Teste Técnico - BI/Analytics
+# Technical Case - BI/Analytics
 
 ## Context
 
