@@ -2,15 +2,13 @@
 
 ## Context
 
-Petlove is the largest pet-oriented platform in Latin America. Taking care of the entire experience of the pet parent, since supplying products (via e-commerce [here](https://www.petlove.com.br/)), together with the veterinarian's care (by [Vet Smart](https://www.vetsmart.com.br/)), ensuring an ERP and adequate management system (by [Vetus](https://vetus.com.br/)) or providing services such as pet sitter and others (by [DogHero](https://www.doghero.com.br/)).
+Petlove is the largest pet-oriented platform in Latin America. The company's role is to take care of the whole pet experience, including supply chain (by e-commerce [here](https://www.petlove.com.br/)), health care (by [Vet Smart](https://www.vetsmart.com.br/)), enterprise management (ERP by [Vetus](https://vetus.com.br/)), and daily care (by [DogHero](https://www.doghero.com.br/)).  In this diverse scenario, Petlove group created data squads carefully planned to join different skills to increment each initiative performance.
 
-Because of this very diverse scenario, the Data area of the Petlove group created squads with people who have different skills to help each business front to have better deliveries.
-
-Your challenge will be to participate in the **Subscription team**: a service that the parent of a pet hires a set of items to receive as often as he wishes, paying a subscription in the period selected by the client (and receiving a discount when hiring the service).
+Your challenge is to participate in the **Subscription Team,** a service where the pet owner schedules the delivery of a set of items within a custom period subscription and discounts.
 
 ## The problem
 
-The subscription team has a goal to reduce subscriber churn. It is important to note that the definition of what we are calling **churn** is any user who hired Petlove's subscription service and canceled it after hiring. 
+The Subscription Team has a goal to reduce subscriber churn. **Churn** is any user who signed the Petlove's subscription service and canceled it after hiring.
 
 When analyzing data from the last few months, despite all the usability improvements on the platform, churn has been increasing. Here is the chart to exemplify:
 
@@ -30,7 +28,7 @@ Here are the tools we use and SUGGEST you to use to continue in this process:
 
 ## Materials
 
-The data engineering team provided a **SAMPLE** within an csv with the most useful data for you ([link here](data-test-analytics.csv)). This material will be enough for you to get the necessary insights, following the structure:
+The data engineering team provided a **SAMPLE** within a csv with the most useful data for you ([link here](https://github.com/petlove/vagas/blob/master/data/bi-analysis/data-test-analytics.csv)). This material will be enough to bring you the expected insights. For analysis, consider the data definition below:
 
 | Column             | Description                                                           |
 |--------------------|-----------------------------------------------------------------------|
@@ -60,15 +58,15 @@ The data engineering team provided a **SAMPLE** within an csv with the most usef
 What you are expected to deliver within the test period:
 
 1. **Codes:** whether in python/notebook or SQL, to understand how graphics and insights were calculated;
-2. **Technical documentation:** preferably a simple README with markdown, to explain the code logic in more detail;
+2. **Technical documentation:** preferably a simple README in markdown, to explain the code logic in more detail;
 3. **Final presentation**: can be in PDF or PPTX format, with all the insights to solve this case.
 
-The **criteria for evaluation** will be:
+The **criteria for evaluation** are:
 
-1. **Storytelling/Rhetoric:** How easy was it for you to explain the concepts? Were the insights explicit and the results of the analysis clear after the presentation?
-2. **Quality of your code:** evaluate the performance and ease of reading/understanding the content. Some references for us are: For code in general ([here](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)), for python itself ([here](https://google.github.io/styleguide/pyguide.html)), and for the SQL itself ([here](https://about.gitlab.com/handbook/business-ops/data-team/platform/sql-style-guide/));
-3. **Documentation:** does the material have clear documentation of how you arrived at the calculations? A suitable README to explain the analysis or final results? Remembering that it is important to have TECHNICAL documentation to understand the code and, if someone from another squad sees your material, they can follow your steps to reach the same results;
-4. **Visualization:** easy to understand graphics, with explicit axes and learned in the material to simplify the understanding of the business team. Remembering that design will not be evaluated in the ARTISTIC sense, but if it is functional for analysis, without hindering understanding;
-5. **Next Steps:** Are the necessary actions to be taken after the analysis is complete useful? And do they solve the pain of the business team? Were the next steps clear for everyone during the presentation?
+1. **Storytelling/Rhetoric:** how easy is for you to explain the concepts? After the presentation, were the insights explicit and the results of the analysis clear?
+2. **Quality of your code:** evaluate the performance and ease of reading/understanding the content. Some references for us are: for (general) code best practices ([here](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)), for python itself ([here](https://google.github.io/styleguide/pyguide.html)), and for the SQL itself ([here](https://about.gitlab.com/handbook/business-ops/data-team/platform/sql-style-guide/));
+3. **Documentation:** does the material have clear documentation of the calculations logic? There is a suitable README to explain the analysis or final results? Remember, TECHNICAL documentation turns your code easy to be understood, reproduced, and maintained.
+4. **Visualization:**  how clear are the graphics, and how explicit are the axes? How simple are the ideas, and how easy is it to communicate the main insights to the business team? The design evaluation considers only the analytical and functional meaning, but NOT the ARTISTIC sense;
+5. **Next Steps:**  are the suggested actions useful? Do they solve the Subscription team business pain? Are the next steps clear for everyone during your presentation?
 
-**IMPORTANT:** No statistical model of churn forecast will be evaluated. If you want to produce something, feel free. But PRIORITY will be the analysis and the final material for the business/product team.
+**IMPORTANT:**  no statistical model of churn forecast will be evaluated. Feel free to produce and deliver other results, BUT YOUR PRIORITY is the analysis and the final material for the business/product team.
