@@ -51,6 +51,7 @@ The data engineering team provided a **SAMPLE** within a csv with the most usefu
 | all_revenue        | Total user-generated revenue in subscription                          |
 | all_orders         | Total user-generated orders in subscription                           |
 | recency            | How many days have passed since the user's last purchase, in recency. |
+| marketing_source   | Which channel brought this subscription.                              |
 <br>
 
 ## Final delivery
