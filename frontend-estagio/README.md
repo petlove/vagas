@@ -37,9 +37,6 @@ GET -> response no formato JSON
 
 ## Instruções
 
-
-### Client Side
-
 - O formulário deve seguir o layout sugerido e conter um input e um botão de submit.
 
 - Ao digitar o CEP no input e clicar no botão "Buscar CEP", consultar a API de CEP utilizando uma requisição e mostrar o resultado na tela.
@@ -56,7 +53,7 @@ GET -> response no formato JSON
 ## O que posso usar?
 
 - Você pode usar qualquer framework JS que quiser.
-- Para o lado do cliente, gostamos do Vue JS e React! Se preferir, pode fazer usando Vanilla JS :)
+- Gostamos do Vue JS e React! Se preferir, pode fazer usando Vanilla JS :)
 
 ## Readme com instruções
 
